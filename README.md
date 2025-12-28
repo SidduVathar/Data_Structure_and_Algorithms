@@ -1,4 +1,4 @@
-DSA Recap 1 Consist of below concepts:
+DSA Recap file Consist of below concepts:
 
 1. Introduction to DSA
 2. How to extract the digits
