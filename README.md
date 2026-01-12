@@ -1,4 +1,4 @@
-DSA Recap file Consist of below concepts:
+DSA 1 file Consist of below concepts:
 
 1. Introduction to DSA
 2. How to extract the digits
@@ -10,7 +10,7 @@ DSA Recap file Consist of below concepts:
 8. LeetCode Problems with solution
 
 
-DSA Recap 2 Consist of below concepts:
+DSA 2 Consist of below concepts:
 
 1. Binary Search
 2. Linked list (SLL & DLL)
